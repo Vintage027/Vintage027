@@ -2,7 +2,7 @@
 - 👀 I’m interested in --> Software Develeopment
 - 🌱 I’m currently learning --> Full Stack Development
 - 📫 How to reach me --> shashankpurimetla@gmail.com
-- 😄 Pronouns: ... He/Him
+- 😄 Pronouns: --> He/Him
 
 <!---
 Vintage027/Vintage027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
